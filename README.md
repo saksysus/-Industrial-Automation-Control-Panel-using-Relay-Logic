@@ -1,4 +1,4 @@
-# ⚙️ Industrial Automation Control Panel using Relay Logic
+# ⚙️ Industrial Automation project
 
 ## 📌 Overview
 
@@ -10,7 +10,7 @@ The objective was to understand real-world automation principles such as self-la
 
 ## 🖼️ Project Demonstration
 
-![Industrial Automation Control Panel](./images/control-panel.jpg)
+<img width="1170" height="912" alt="panel image" src="https://github.com/user-attachments/assets/fad2b6d1-4a52-40b5-8f14-f45e8dee5bb8" />
 
 *Relay-based industrial automation control panel developed during Automation Idea Challenge 2026.*
 
@@ -120,4 +120,15 @@ Built and demonstrated successfully during the **Automation Idea Challenge 2026*
 
 ---
 
-### ⭐ If you found this project interesting, consider giving the repository a star!
+## 👩‍💻 Author
+
+**Sakshi Gupta**  
+Automation & Robotics Engineering Student  
+Passionate about Industrial Automation, Embedded Systems, IoT, and Robotics.
+
+- GitHub: https://github.com/saksysus
+- LinkedIn: https://www.linkedin.com/in/saksysus/
+---
+
+### Building practical engineering solutions, one project at a time. ⚙️🚀
+### ⚙️ Open to suggestions, discussions, and improvements that can make this automation system even better.
