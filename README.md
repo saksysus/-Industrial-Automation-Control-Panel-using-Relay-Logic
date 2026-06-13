@@ -1,1 +1,1 @@
-# -Industrial-Automation-Control-Panel-using-Relay-Logic
+# Industrial_Automation_Control_Panel_using_Relay_Logic
